@@ -27,6 +27,12 @@ baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://jupyterj1s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jupyterjones
 github_username:  jupyterj1s
+linkedin_username: antoniodiazcastano
+author: Antonio Diaz
+
+copyright: "JupyterJ1s LLC"
+
+title-logo: /images/title-logo.png
 
 # Build settings
 # theme: minima
