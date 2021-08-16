@@ -2,7 +2,7 @@
 layout: post
 title:  "My first post"
 date:   2021-08-16 08:50:26 +0200
-categories: jekyll update
+category: tech
 ---
 Welcome to my first post
 
